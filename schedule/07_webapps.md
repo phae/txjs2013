@@ -33,7 +33,7 @@ contributed to several open-source projects, including jQuery and Johnny Five.
 Building amazing digital services is a dream we all have, but many of us are working for companies that 
 aren't quite with the programme yet. With a few examples from how we're making huge and lasting changes 
 within the UK Government's digital services, I'll describe how you can help steer your products 
-onto better seas through simple culture change tricks mostly involving watching what you say.
+onto better seas through simple culture change tricks - mostly involving watching what you say.
 
 Frances is front-end development lead for [GovUK](https://www.gov.uk/) in London, where she is helping to revolutionise 
 digital services for citizens from the inside out.  Previously, she worked for the BBC on their JavaScript 
